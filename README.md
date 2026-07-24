@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/oAthlas/oAthlas/blob/main/imgs/ELDER.ME.png" alt="Elder.me Banner" width="100%">
-</div>
-
 # Oioi, aqui é o Elder!
 
 <div align="center">
@@ -43,8 +39,7 @@ Sou um **Desenvolvedor focado em Sistemas Web e Backend**. Atualmente, dedico me
 
 ### ⏳ Projetos em Desenvolvimento (Ongoing)
 
-* **[Nome do seu projeto Django/Flask]:** Uma breve descrição de uma linha sobre o que o sistema faz. *(Ex: Plataforma de gerenciamento interno consumindo APIs externas).*
-* **[Outro projeto ou portfólio]:** Descrição rápida focada no uso de Fetch API e manipulação do DOM.
+* **Cephalon Delta:** Item tracker para Warframe usando Flask.
 
 ---
 
