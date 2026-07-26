@@ -13,7 +13,7 @@
 Sou um **Desenvolvedor focado em Sistemas Web e Backend**. Atualmente, dedico meus códigos à criação de aplicações robustas e escaláveis, unindo a força do ecossistema Python com interfaces dinâmicas no ecossistema Web. 
 
 *  **Foco Atual:** Construção de APIs e aplicações completas utilizando **Django** e **Flask**.
-*  **Frontend & Integrações:** Criação de interfaces modernas com HTML5, CSS3, JavaScript estruturado e consumo assíncrono de dados com **Fetch API**.
+*  **Frontend & Integrações:** Criação de interfaces modernas com HTML5, CSS3 e JavaScript estruturado.
 *  **Diferencial:** Background sólido em automações de processos e uso de IA generativa, integrando o melhor da tecnologia para otimizar fluxos de trabalho.
 
 ---
