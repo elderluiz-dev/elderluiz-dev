@@ -11,4 +11,4 @@ Desenvolvedor focado em **Sistemas Web e Backend**, utilizando principalmente **
 ![Skill Icons](https://skills.syvixor.com/api/icons?i=html,css3,javascript,python,c,django,flask,fedora,git,github,figma,n8n&perline=12&radius=85)
 ---
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/elderluiz-dev?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/elderluiz-dev?cardType=github&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
