@@ -2,7 +2,9 @@
 
 ### 👨‍💻 Sobre Mim
 
-Desenvolvedor focado em **Sistemas Web e Backend**, utilizando principalmente **Python, Django e Flask**. Também trabalho com **Frontend, automações e integração de IA**.
+Desenvolvedor em formação pelo **Instituto Federal de Educação, Ciência e Tecnologia Baiano** no curso de **Análise e Desenvolvimento de Sistemas.** 
+
+Meu foco são **Sistemas Web e Backend**, trabalho também com **automações e integração de IA**, utilizando principalmente **Python, Django e Flask**. Atualmente dirijo meus estudos para **estrutura de dados em C** e **conceitos de UI/UX com Figma**.
 
 ---
 
