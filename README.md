@@ -10,7 +10,7 @@ Meu foco são **Sistemas Web e Backend**, trabalho também com **automações e 
 
 ### 🛠️ Tech Stack
 
-![Skill Icons](https://skills.syvixor.com/api/icons?i=html,css3,javascript,python,c,django,flask,fedora,git,github,figma,n8n&perline=12&radius=85)
+![Skill Icons](https://skills.syvixor.com/api/icons?i=html,css3,javascript,python,c,django,flask,fedora,git,github,figma&perline=12&radius=85)
 ---
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/elderluiz-dev?cardType=github&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
