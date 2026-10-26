@@ -1,4 +1,7 @@
-![BANNER](/assets/banner.png)
+### Olá, eu sou Elder Luiz
+---
+
+**Graduando em ADS**  ⟩⟩  _estruturas de dados, Linux e baixo nivel_
 
 ![c](https://img.shields.io/static/v1?logo=c&label=&message=C%20lenguage&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
